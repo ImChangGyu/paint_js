@@ -1,4 +1,4 @@
-# paint_js
+# Canvas(paint_JS)
 
 ---
 
